@@ -3,10 +3,10 @@
 <head>
 <title>tabla</title>
 <!--
-NOM PROGRAMA:tabla
-AUTOR:Alejandro Franco CARO
-DATA:20/09/17
-DESCRIPCIÓ:Creación de una tabla con código HTML.
+NOMBRE PROGRAMA:tabla
+AUTOR:Alejandro Franco Caro
+FECHA:20/09/17
+DESCRIPCIÓN:Creación de una tabla con código HTML.
 -->
 </head>
 <body>
