@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>tablale>
+<title>
 <!--
 NOM PROGRAMA:tabla
 AUTOR:Alejandro Franco CARO
