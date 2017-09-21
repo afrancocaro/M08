@@ -11,7 +11,7 @@ DESCRIPCIÓN:Creación de una tabla con código HTML.
 <body>
 <table>
 	<tr>
-	<caption center>ALEJANDRO FRANCO CARO</caption>
+	<caption>ALEJANDRO FRANCO CARO</caption>
 	<th>Módulo</th>
 	<th>Descripción</th>
 	<th>Calificación</th>
